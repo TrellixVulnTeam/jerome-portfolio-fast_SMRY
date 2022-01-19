@@ -1,47 +1,8 @@
-# Dopefolio 🔥
+# Jerome Fast Portfolio 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
-
-## [Demo Link](https://dopefolio.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
-  <br>
-</div>
-
-<br/>
-<br/>
-
-## Features
-
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
+## Trying to throw sometjing on the web fast as a portfolio 🚀
 
 <img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
-
-<br/>
-<br/>
-
-## Test the template with different colors on the playground link 🚀
-
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
-  <br>
-</div>
-
-<br/>
-
-----
-
-<br/>
 
 ## Technologies used 🛠️
 
@@ -52,26 +13,7 @@
 
 ---
 
-<br/>
-
-## How To Use 🔧
-
-From your command line, first clone Dopefolio:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
-
-# Go into the repository
-$ cd dopefolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-
-<br/>
-
-Then you can install the dependencies
+Install the dependencies
 
 Using NPM:
 
