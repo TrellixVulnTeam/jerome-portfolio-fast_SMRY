@@ -2,9 +2,7 @@
 
 ## Trying to throw sometjing on the web fast as a portfolio 🚀
 
-<img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
-
-## Technologies used 🛠️
+### Technologies used 🛠️
 
 - **HTML** 🚀
 - **CSS** 🚀
