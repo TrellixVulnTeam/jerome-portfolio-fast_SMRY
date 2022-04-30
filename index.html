@@ -84,7 +84,10 @@
     </header>
     <section class="home-hero">
       <div class="home-hero__content">
-        <h1 class="heading-primary">Hey, My name is Jerome Hardaway</h1>
+        <div id="typed-strings">
+          <h1 class="heading-primary">Hey, My name is Jerome</h1>
+        </div>
+        <h1 class="heading-primary" id="typed"></h1>
         <div class="home-hero__info">
           <p class="text-primary">
             I am a Senior Software Engineer at Microsoft and The Executive Director of Vets Who Code.
@@ -410,5 +413,13 @@
     </footer>
 
     <script src="./index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script>
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        smartBackspace: true,
+        typeSpeed: 90
+      });
+    </script>
   </body>
 </html>
